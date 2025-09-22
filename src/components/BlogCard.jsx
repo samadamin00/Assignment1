@@ -1,5 +1,3 @@
-import React from 'react';
-
 const BlogCard = ({ post }) => {
   return (
     <div className="flex flex-col bg-white rounded-lg shadow-md p-6 dark:bg-gray-900">
